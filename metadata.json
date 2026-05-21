@@ -1,0 +1,8 @@
+{
+  "name": "Remix: تتبع باص الموظفين",
+  "description": "تطبيق لتتبع مسار وموقع حافلة الشركة وتنبيه السائق بمكان انتظار الموظفين لتعزيز الثقة وتسهيل التنقل اليومي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
